@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="365131a4-0027-4550-b9fe-125564edd748" name="Default Changelist" comment="" />
+    <list default="true" id="365131a4-0027-4550-b9fe-125564edd748" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gfg/indianMobileNumber/IndianValidNumber.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerRank/javaLoopsI/JavaLoops1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="37" selection-start-line="21" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerRank/StaticBlock/StaticBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -35,6 +44,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -44,6 +56,8 @@
         <option value="$PROJECT_DIR$/src/hackerRank/javaLoopsII/JavaLoops2.java" />
         <option value="$PROJECT_DIR$/src/hackerRank/dataTypes/DataTypes.java" />
         <option value="$PROJECT_DIR$/src/hackerRank/javaLoopsI/JavaLoops1.java" />
+        <option value="$PROJECT_DIR$/src/hackerRank/endOfFile/Eof.java" />
+        <option value="$PROJECT_DIR$/src/hackerRank/StaticBlock/StaticBlock.java" />
       </list>
     </option>
   </component>
@@ -52,6 +66,9 @@
     <option name="y" value="23" />
     <option name="width" value="558" />
     <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -64,33 +81,33 @@
         <subPane>
           <expand>
             <path>
-              <item name="toTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toTest" type="462c0819:PsiDirectoryNode" />
+              <item name="online-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="toTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toTest" type="462c0819:PsiDirectoryNode" />
+              <item name="online-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="toTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toTest" type="462c0819:PsiDirectoryNode" />
+              <item name="online-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="toTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toTest" type="462c0819:PsiDirectoryNode" />
+              <item name="online-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="javaLoopsI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="toTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toTest" type="462c0819:PsiDirectoryNode" />
+              <item name="online-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="javaLoopsII" type="462c0819:PsiDirectoryNode" />
+              <item name="StaticBlock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,9 +116,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hackerRank/javaLoopsI" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,13 +133,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataTypes">
+  <component name="RunManager" selected="Application.StaticBlock">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerRank.dataTypes.DataTypes" />
       <module name="online-exercises" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hackerRank.dataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.endOfFile.Eof" />
+      <module name="online-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.endOfFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,22 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="online-exercises" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.loops.Sums" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.StaticBlock.StaticBlock" />
       <module name="online-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.loops.*" />
+          <option name="PATTERN" value="hackerRank.StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,10 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticBlock" />
+        <item itemvalue="Application.Eof" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.JavaLoops1" />
         <item itemvalue="Application.IndianValidNumber" />
-        <item itemvalue="Application.Sums" />
       </list>
     </recent_temporary>
   </component>
@@ -199,23 +221,23 @@
       <updated>1564511260249</updated>
       <workItem from="1564511261734" duration="181000" />
       <workItem from="1565180297554" duration="16132000" />
+      <workItem from="1565284299413" duration="3604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16313000" />
+    <option name="totallyTimeSpent" value="19917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
@@ -226,8 +248,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -296,9 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gfg/JavaInheritance.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gfg/JavaInheritance.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1505">
@@ -323,20 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerRank/javaLoopsI/JavaLoops1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gfg/loops/ClassOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gfg/loops/ClassOne.java" />
     <entry file="file://$PROJECT_DIR$/src/gfg/loops/Sums.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -349,11 +357,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gfg/indianMobileNumber/IndianValidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="585">
           <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerRank/endOfFile/Eof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="1398" column="34" selection-start-line="1398" selection-start-column="34" selection-end-line="1398" selection-end-column="34" />
+          <folding>
+            <element signature="e#51489#51490#0" expanded="true" />
+            <element signature="e#51550#51551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerRank/StaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerRank/javaLoopsI/JavaLoops1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerRank/StaticBlock/StaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
         </state>
       </provider>
     </entry>
